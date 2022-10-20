@@ -1,0 +1,18 @@
+{
+    "measure_description": "Measured with utils/measure script",
+    "measure_device": "Shelly Plug S",
+    "measure_method": "script/manual average lut",
+    "measure_settings": {
+        "SAMPLE_COUNT": 2,
+        "SLEEP_TIME": 3,
+        "VERSION": "v0.26.1:docker"
+    },
+    "name": "Signify LOM007 1.93.6",
+    "standby_power": 0.15,
+    "supported_modes": [
+        "fixed"
+    ],
+    "fixed_config": {
+        "power": 0.85
+    }  
+}
